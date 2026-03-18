@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/master/Documents/MyMaster/Designs/LevelDesignUCM/FirstPerson/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/master/Documents/MyMaster/Designs/LevelDesignUCM/FirstPerson/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/master/Documents/MyMaster/Designs/LevelDesignUCM/FirstPerson/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/master/Documents/MyMaster/Designs/LevelDesignUCM/FirstPerson/Content/Maps/FirstPersonExampleMap_BuiltData.uasset",
+				"C:/Users/master/Documents/MyMaster/Designs/LevelDesignUCM/FirstPerson/Content/Maps/FirstPersonExampleMap.umap",
+				"C:/Users/master/Documents/MyMaster/Designs/LevelDesignUCM/FirstPerson/Content/Blueprints/FirstPersonExampleMap.umap",
+				"C:/Users/master/Documents/MyMaster/Designs/LevelDesignUCM/FirstPerson/Content/Blueprints/FirstPersonExampleMap_BuiltData.uasset",
+				"C:/Users/master/Documents/MyMaster/Designs/LevelDesignUCM/FirstPerson/Content/Maps/LonkMap.umap"
 			]
 		}
 	]
